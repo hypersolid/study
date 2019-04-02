@@ -16,3 +16,7 @@
 - https://tour.golang.org/welcome/1
 ## Ruby
 - Eloquent Ruby by Russ Olsen
+
+# Blogs
+http://highscalability.com/all-time-favorites/
+https://www.joelonsoftware.com/
