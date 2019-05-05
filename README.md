@@ -18,5 +18,6 @@
 - Eloquent Ruby by Russ Olsen
 
 # Blogs
-http://highscalability.com/all-time-favorites/
-https://www.joelonsoftware.com/
+- http://highscalability.com/all-time-favorites/
+- https://www.joelonsoftware.com/
+- https://news.ycombinator.com/
